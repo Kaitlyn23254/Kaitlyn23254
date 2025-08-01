@@ -50,7 +50,7 @@ Currently, I'm a Fellow in the **Break Through Tech AI Program**, where I'm work
 - Analyzed World Happiness Report data to predict "Confidence in national government" using socioeconomic indicators
 - Implemented data preprocessing, feature engineering, and model comparison (Linear Regression, Random Forest, Gradient Boosted Trees)
 - Achieved R² of 0.703 using comprehensive ML pipeline with Python, pandas, and scikit-learn
-- **[Repository Link](#)** *(Coming Soon)*
+- **[https://github.com/Kaitlyn23254/Government-Confidence-Prediction](#)**
 
 ---
 
