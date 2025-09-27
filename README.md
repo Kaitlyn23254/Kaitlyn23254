@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a junior at **Barnard College** studying **Computer Science** with an **Economics minor**. I'm passionate about leveraging technology to solve real-world problems and create positive social impact, particularly through **machine learning**, **AI ethics**, and **full-stack development**.
+I'm a junior at **Barnard College** studying **Computer Science** with an **Economics minor**. I'm passionate about leveraging technology to solve real-world problems and create positive social impact, particularly through **machine learning** and **full-stack development**.
 
 Currently, I'm a Fellow in the **Break Through Tech AI Program**, where I'm working on industry challenge projects with leading tech companies while building expertise in ML and data science.
 
@@ -35,15 +35,27 @@ Currently, I'm a Fellow in the **Break Through Tech AI Program**, where I'm work
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
 - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 
-**Tools & Technologies:**
+**Development Tools & Frameworks:**
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+- ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📚 Book Lending API
+*Software Engineering | JUnit | Maven | Springboot*
+- Developed comprehensive unit test suite with 85% code coverage, implementing edge case testing and validation logic
+- Built RESTful API endpoints with proper HTTP status codes, error handling, and JSON response formatting
+- Performed static bug analysis, code refactoring, and style checking to improve system reliability and maintainability
+- Implemented CI/CD pipeline using GitHub Actions for automated testing and deployment
+- **[github.com/Kaitlyn23254/COMS4156-Advanced-SWE](#)**
+
 
 ### 🏛️ Government Confidence Prediction Model
 *Machine Learning | Data Analysis*
@@ -69,8 +81,8 @@ Currently, I'm a Fellow in the **Break Through Tech AI Program**, where I'm work
 ## 📚 What I'm Currently Learning
 
 - Advanced machine learning techniques through Break Through Tech AI industry projects
-- Full-stack web development (expanding beyond Flask to modern frameworks)
-- AI ethics and responsible ML deployment
+- Software engineering practices and building RESTful API architecture
+- Search algorithms in my AI class
 
 ---
 
@@ -81,4 +93,4 @@ Currently, I'm a Fellow in the **Break Through Tech AI Program**, where I'm work
 
 ---
 
-⭐ **Fun Fact:** When I'm not coding or dancing, you can find me exploring NYC's dance scene!
+⭐ **Fun Fact:** When I'm not coding or dancing, you can find me exploring NYC's food scene!
